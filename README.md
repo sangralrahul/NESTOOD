@@ -4,7 +4,7 @@
 
 A construction website for exploring homes, commercial spaces, renovations, and interiors. NESTOOD brings together a project portfolio, service information, package comparisons, and an interactive cost calculator, with content focused on Chennai and Bengaluru.
 
-[Live website](https://nestood-construction-website--rahulsangral.replit.app/) | [GitHub repository](https://github.com/sangralrahul/NESTOOD)
+[Live website](https://nestood.vercel.app/) | [GitHub repository](https://github.com/sangralrahul/NESTOOD)
 
 ## Features
 
