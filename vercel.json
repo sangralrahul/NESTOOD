@@ -1,0 +1,13 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "vite",
+  "installCommand": "npx --yes pnpm@10 install --frozen-lockfile",
+  "buildCommand": "npx --yes pnpm@10 --filter @workspace/nestood-site run build",
+  "outputDirectory": "artifacts/nestood-site/dist/public",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}

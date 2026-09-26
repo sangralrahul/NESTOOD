@@ -1,4 +1,4 @@
-N E S T O O D
+# NESTOOD
 
 **Built around how you live.**
 
@@ -97,4 +97,3 @@ Most website pages, initial content, and admin logic are in `artifacts/nestood-s
 ## Maintainer
 
 [Rahul Sangral](https://github.com/sangralrahul)
-E.md…]()
